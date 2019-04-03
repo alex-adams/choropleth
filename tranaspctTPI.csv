@@ -548,7 +548,7 @@
 15001,"Hawaii, HI",23.9
 15003,"Honolulu, HI",14.1
 15007,"Kauai, HI",19.4
-15901,"Maui + Kalawao, HI*",15.9
+15009,"Maui, HI",15.9
 16001,"Ada, ID",13.4
 16003,"Adams, ID",26.3
 16005,"Bannock, ID",22.5
@@ -2914,7 +2914,7 @@
 51053,"Dinwiddie, VA",29.7
 51570,"Colonial Heights, VA",29.7
 51730,"Petersburg, VA",29.7
-51059,Fairfax,6.9
+51059,"Fairfax, VA",6.9
 51600,"Fairfax City, VA",6.9
 51610,"Falls Church, VA",6.9
 51069,"Frederick, VA",15.1
@@ -2934,7 +2934,7 @@
 51153,"Prince William, VA",9.8
 51683,"Manassas, VA",9.8
 51685,"Manassas Park, VA",9.8
-51770,"Roanoke, VA",18.2
+51161,"Roanoke, VA",18.2
 51775,"Salem, VA",18.2
 51163,"Rockbridge, VA",24.3
 51530,"Buena Vista, VA",24.3
