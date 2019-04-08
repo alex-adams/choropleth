@@ -1,52 +1,52 @@
 ﻿id,geoname,rate
-01000,Alabama,22.9
-02000,Alaska,16.4
-04000,Arizona,19.8
-05000,Arkansas,23.6
-06000,California,14.0
-08000,Colorado,12.9
-09000,Connecticut,12.9
-10000,Delaware,20.8
-11000,District of Columbia,12.0
-12000,Florida,19.7
-13000,Georgia,17.0
-15000,Hawaii,15.6
-16000,Idaho,18.0
-17000,Illinois,15.0
-18000,Indiana,19.2
-19000,Iowa,17.0
-20000,Kansas,15.9
-21000,Kentucky,24.2
-22000,Louisiana,22.3
-23000,Maine,22.0
-24000,Maryland,13.7
-25000,Massachusetts,14.5
-26000,Michigan,20.6
-27000,Minnesota,15.6
-28000,Mississippi,26.2
-29000,Missouri,19.8
-30000,Montana,19.6
-31000,Nebraska,14.9
-32000,Nevada,16.6
-33000,New Hampshire,14.8
-34000,New Jersey,14.1
-35000,New Mexico,23.5
-36000,New York,17.7
-37000,North Carolina,19.6
-38000,North Dakota,14.3
-39000,Ohio,19.6
-40000,Oklahoma,19.1
-41000,Oregon,18.9
-42000,Pennsylvania,19.0
-44000,Rhode Island,20.0
-45000,South Carolina,21.8
-46000,South Dakota,15.4
-47000,Tennessee,19.7
-48000,Texas,15.4
-49000,Utah,12.9
-50000,Vermont,20.1
-51000,Virginia,13.8
-53000,Washington,14.5
-54000,West Virginia,28.7
-55000,Wisconsin,17.2
-56000,Wyoming,13.6
+01,Alabama,22.9
+02,Alaska,16.4
+04,Arizona,19.8
+05,Arkansas,23.6
+06,California,14.0
+08,Colorado,12.9
+09,Connecticut,12.9
+10,Delaware,20.8
+11,District of Columbia,12.0
+12,Florida,19.7
+13,Georgia,17.0
+15,Hawaii,15.6
+16,Idaho,18.0
+17,Illinois,15.0
+18,Indiana,19.2
+19,Iowa,17.0
+20,Kansas,15.9
+21,Kentucky,24.2
+22,Louisiana,22.3
+23,Maine,22.0
+24,Maryland,13.7
+25,Massachusetts,14.5
+26,Michigan,20.6
+27,Minnesota,15.6
+28,Mississippi,26.2
+29,Missouri,19.8
+30,Montana,19.6
+31,Nebraska,14.9
+32,Nevada,16.6
+33,New Hampshire,14.8
+34,New Jersey,14.1
+35,New Mexico,23.5
+36,New York,17.7
+37,North Carolina,19.6
+38,North Dakota,14.3
+39,Ohio,19.6
+40,Oklahoma,19.1
+41,Oregon,18.9
+42,Pennsylvania,19.0
+44,Rhode Island,20.0
+45,South Carolina,21.8
+46,South Dakota,15.4
+47,Tennessee,19.7
+48,Texas,15.4
+49,Utah,12.9
+50,Vermont,20.1
+51,Virginia,13.8
+53,Washington,14.5
+54,West Virginia,28.7
+55,Wisconsin,17.2
+56,Wyoming,13.6
